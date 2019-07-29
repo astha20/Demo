@@ -4,6 +4,7 @@ Welcome to the kitchen
 Kheer
 Pasta
 Chieken fry
-
+Beans
+Pizza
 
 Thank you.
